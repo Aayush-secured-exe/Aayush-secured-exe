@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full-Stack Web projects<br>👯 I’m looking to collaborate on Open-source web projects and Java/Python backend systems<br>🤝 I’m looking for help with Improving deployment workflows and scaling backend architecture<br>💬 Ask me about Web development, Java , Python and deployment stuff<br>📫 How to reach me: LinkedIn - aayushshaw, Email - ayushshaw240@gmail.com<br>🌐 Website: aayushshaw.vercel.app<br>👨‍💻 Pronouns: He/Him<br>⚡ Fun fact: If I’m not coding, I’m probably tweaking UI designs or vibing with friends over games
+🔭 I’m currently working on Full-Stack Web projects<br>👯 I’m looking to collaborate on Open-source web projects and Java/Python backend systems<br>🤝 I’m looking for help with Improving deployment workflows and scaling backend architecture<br>💬 Ask me about Web development, Java , Python and deployment stuff<br>📫 How to reach me: LinkedIn - aayushshaw, Email - ayushshaw240@gmail.com<br>🌐 Website: [aayushshaw.vercel.app](https://aayushshaw.vercel.app/)<br>👨‍💻 Pronouns: He/Him<br>⚡ Fun fact: If I’m not coding, I’m probably tweaking UI designs or vibing with friends over games
 
 
 ## 🌐 Socials:
